@@ -32,7 +32,7 @@ Keep track of progress or provide interactive checklists.
 You can easily include images with descriptive captions.
 
 ![Project Overview](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=1000)
-*Caption: A high-quality representation of the code structure.*
+*Caption: A laptop with code displayed.*
 
 ## Nested Lists and Tables
 
