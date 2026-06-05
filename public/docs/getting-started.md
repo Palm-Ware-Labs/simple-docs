@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to **FlyPage. FlyPage is designed to help you get up and running with a beautiful, dark-themed documentation in minutes.
+Welcome to **FlyPage**. FlyPage is designed to help you get up and running with a beautiful, dark-themed documentation in minutes.
 
 ## Prerequisites
 
