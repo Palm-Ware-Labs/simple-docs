@@ -15,7 +15,7 @@ A sleek, premium, dark-grey documentation template built with **Vite**, **React 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/FlyLabs-Dev/FlyPage.git
-cd simple-docs
+cd flypage
 ```
 
 ### 2. Install dependencies
