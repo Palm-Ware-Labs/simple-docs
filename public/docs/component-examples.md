@@ -7,7 +7,7 @@ This page showcases various code block examples in different programming languag
 ```javascript
 // A simple function to greet users
 function greet(name) {
-  const message = `Hello, ${name}! Welcome to Simple Docs.`;
+  const message = `Hello, ${name}! Welcome to FlyPage.`;
   console.log(message);
   return message;
 }
@@ -79,7 +79,7 @@ print(f"The area of a circle with radius {radius} is {area:.2f}")
 
 ```json
 {
-  "name": "simple-docs",
+  "name": "flypage",
   "version": "1.0.0",
   "description": "A modern, dark-themed documentation template.",
   "main": "index.js",
@@ -109,7 +109,7 @@ npm run build
 
 ```rust
 fn main() {
-    let name = "Simple Docs";
+    let name = "FlyPage";
     println!("Hello, {}!", name);
     
     let mut count = 0;
