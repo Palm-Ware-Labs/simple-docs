@@ -1,6 +1,6 @@
 # Customization
 
-FlyPage is highly customizable. You can adjust the colors, layout, and components to match your brand.
+FlyPage is highly customizable. You can adjust colors, layout, and components to match your brand.
 
 ## Theme Colors
 
