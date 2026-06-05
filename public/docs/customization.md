@@ -1,6 +1,6 @@
 # Customization
 
-Simple Docs is highly customizable. You can adjust the colors, layout, and components to match your brand.
+FlyPage is highly customizable. You can adjust the colors, layout, and components to match your brand.
 
 ## Theme Colors
 
