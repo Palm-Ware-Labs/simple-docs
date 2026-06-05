@@ -201,7 +201,7 @@ const App: React.FC = () => {
     <div className="app-container">
       <header className="header">
         <div className="header-left">
-          <a href="/" className="logo">SimpleDocs</a>
+          <a href="/" className="logo">FlyPage</a>
         </div>
       </header>
 
