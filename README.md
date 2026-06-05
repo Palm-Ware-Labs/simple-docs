@@ -1,4 +1,4 @@
- Simple Docs
+ FlyPage
 
 A sleek, premium, dark-grey documentation template built with **Vite**, **React (TypeScript)**, and **Vanilla CSS**. Designed to be fast, minimal, and incredibly easy to use.
 
@@ -14,7 +14,7 @@ A sleek, premium, dark-grey documentation template built with **Vite**, **React 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Palm-Ware-Labs/simple-docs.git
+git clone https://github.com/Palm-Ware-Labs/flypage.git
 cd simple-docs
 ```
 
